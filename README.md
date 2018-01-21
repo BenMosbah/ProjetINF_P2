@@ -1,6 +1,6 @@
 <h1>Quora-Question-Pairs</h1>
 Utilizing scikit-learn and Keras libraries to test out Random Forests and Siamese Manhatten distance LSTM classifiers to determine if a question pair on Quora is actually a duplicate or not.
-
+- Capstone Document: https://github.com/azhenxuan/Quora-Question-Pairs/blob/master/Capstone%20Project.docx
 
 - Python 2.7 (using Anaconda's distribution)
 
