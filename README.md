@@ -19,4 +19,5 @@ Utilizing scikit-learn and Keras libraries to test out Random Forests and Siames
   - numpy
   - pandas 
   - gensim: https://anaconda.org/anaconda/gensim
+  - tensorflow CPU/GPU: https://www.tensorflow.org/install/
 - Requirements file to replicate environment: https://github.com/azhenxuan/Quora-Question-Pairs/blob/master/requirements.txt
